@@ -1,0 +1,22 @@
+.title {
+  color: #0c0909;
+  border-color: blue;
+}
+
+.title1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.5;
+  font-size: 15px;
+}
+
+.body {
+  margin: 0;
+  background-color: white;
+  margin: 25px;
+  font-size: 18px;
+}
+
+.title2 {
+  color: green;
+  font-size: 45px;
+}
